@@ -15,7 +15,7 @@ The example code is in Python ([version 2.7](https://www.python.org/download/rel
 2) import imutils
 3) import dlib
 4) import scipy
-1
+12
 
 ### Description 📌
 
